@@ -1,4 +1,3 @@
 # Soccerbot
-This is a beginner friendly Arduino sketch for making a 4 wheeler (soccerbot)
+During my sophomore year, I developed and built a soccer bot for an undergrad robotics competition. The framework was constructed from 5 mm acrylic sheet with front and rear reinforcement in the form of aluminum bars. With the aid of a hex coupler, four 12V DC gear motors were connected to four 65mm diameter wheels. The L298N H bridge motor driver, which facilitates dual channel output, was employed. The controller board was an Arduino Mega 2560, which was coded in C++ using the Arduino IDE. An Android device was coupled with the HC-05 Bluetooth module for wireless connection, and an existing Android app was used for control. An LM7805 linear regulator and a 1100mAh 12v lipo battery were attached to the circuit to provide power. The entire bot was designed in solidworks, rendered in Keyshot. Some electrical parts were taken from Grabcad for assembly purpose.
 
-if you need a sample 3d design of it- https://grabcad.com/library/4-wheeler-soccerbot-1
